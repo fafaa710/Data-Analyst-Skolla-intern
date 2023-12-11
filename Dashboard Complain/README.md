@@ -12,7 +12,7 @@ This project showcases a complain dashboard created using Looker Studio.
 
 ![Complain](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/a99dd76a-71e1-417f-a112-a12f01853c46)
 
-![Rating_Cumulative](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/8185e21a-7dde-448e-abf1-2c3be198a0dd)
+![Detail Complain](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/6e845436-cf04-4cbf-b2da-f631e8eabd14)
 
 ## Technologies Used
 
