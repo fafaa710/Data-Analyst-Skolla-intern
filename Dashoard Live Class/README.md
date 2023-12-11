@@ -8,9 +8,9 @@ This project showcases a live class admin dashboard created using Looker Studio.
 2. Follow the instructions in the `src/README.md` file to set up Looker Studio.
 3. Open the dashboard by accessing [Live Class Admin](https://lookerstudio.google.com/reporting/4bbc4d61-2f60-47fb-bf36-0b98a7b12b8a).
 
-## Screenshots
+## Dashboard
 
-![Rating Live Class](/Rating_Live_Class.jpg)
+![Rating_Live_Class](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/5fc04c24-5da8-4a97-a7c7-e19f922435a3)
 
 ## Technologies Used
 
