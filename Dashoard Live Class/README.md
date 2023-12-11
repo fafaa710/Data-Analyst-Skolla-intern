@@ -10,7 +10,7 @@ This project showcases a live class admin dashboard created using Looker Studio.
 
 ## Screenshots
 
-![Rating Live Class](/Live Class Admin-Rating Live Class.jpg)
+![Rating Live Class](/Rating_Live_Class.jpg)
 
 ## Technologies Used
 
