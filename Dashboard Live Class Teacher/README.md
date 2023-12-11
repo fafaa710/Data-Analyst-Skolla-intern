@@ -10,7 +10,7 @@ This project showcases a live class admin dashboard created using Looker Studio.
 
 ## Dashboard
 
-![Rating_Live_Class](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/5fc04c24-5da8-4a97-a7c7-e19f922435a3)
+![Sesi dan Rating](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/959bbfa5-20de-4c1a-b534-2df7a5a9645d)
 
 ![Rating_Cumulative](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/8185e21a-7dde-448e-abf1-2c3be198a0dd)
 
