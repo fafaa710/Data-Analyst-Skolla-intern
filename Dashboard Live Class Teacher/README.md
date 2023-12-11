@@ -1,6 +1,6 @@
-# Dashboard Live Class Admin
+# Dashboard Live Class Teacher
 
-This project showcases a live class admin dashboard created using Looker Studio. The dashboard provides insight into the number of teacher sessions, teacher ratings and comments,].
+This project showcases a live class teacher dashboard created using Looker Studio. The dashboard provides insight into the number of teacher sessions, teacher ratings and comments,].
 
 ## Usage
 
