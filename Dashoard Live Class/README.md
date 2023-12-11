@@ -10,7 +10,7 @@ This project showcases a live class admin dashboard created using Looker Studio.
 
 ## Screenshots
 
-![Rating Live Class]([/live-class-admin.png](https://github.com/fafaa710/Data-Analyst-Skolla-intern/blob/243a0463b8427c6161b40f49bf5d48182f3d3c0e/Dashoard%20Live%20Class/Live%20Class%20Admin-Rating%20Cumulative.jpg)https://github.com/fafaa710/Data-Analyst-Skolla-intern/blob/243a0463b8427c6161b40f49bf5d48182f3d3c0e/Dashoard%20Live%20Class/Live%20Class%20Admin-Rating%20Cumulative.jpg)
+![Rating Live Class](Dashoard Live Class/Live Class Admin-Rating Live Class.jpg)
 
 ## Technologies Used
 
