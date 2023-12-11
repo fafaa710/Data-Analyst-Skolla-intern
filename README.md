@@ -1,1 +1,1 @@
-# Data-Analyst-Skolla-intern
+# Data Analyst in Skolla Intern Program
