@@ -6,7 +6,7 @@ This project showcases a live class admin dashboard created using Looker Studio.
 
 1. Clone the repository.
 2. Follow the instructions in the `src/README.md` file to set up Looker Studio.
-3. Open the dashboard by accessing [Live Class Teacher]([https://lookerstudio.google.com/reporting/4bbc4d61-2f60-47fb-bf36-0b98a7b12b8a](https://lookerstudio.google.com/reporting/942fe84b-3c8e-44a6-80f6-3b7fdf108374)).
+3. Open the dashboard by accessing [Live Class Teacher](https://lookerstudio.google.com/u/0/reporting/942fe84b-3c8e-44a6-80f6-3b7fdf108374/page/p_8rhp633sbd/edit).
 
 ## Dashboard
 
